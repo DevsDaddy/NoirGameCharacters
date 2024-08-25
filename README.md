@@ -1,4 +1,5 @@
 # 2D Noir Game Characters (4K / Layered PSD)
+![2D Noir Game Characters - Free Assets by DevsDaddy](https://github.com/user-attachments/assets/35838ece-794e-4a8d-9e5c-606b4c8c9aa9)
 
 ## About
 **A bit of sad backstory**. The graphics were developed a long time ago - I wanted to use it to create my own game in the detective genre, for which I wrote a lot of code, script, created a lot of different resources. Now - all these resources are just lying idle and I will be glad if on the basis of them you can create the coolest game.
